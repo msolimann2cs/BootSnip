@@ -32,7 +32,7 @@ This extension was built to assist during my learning journey on [Boot.dev](http
 
 ## 🛠 Installation
 
-1. Clone this repo or [Download ZIP](https://github.com/your-username/bootsnip/archive/refs/heads/main.zip)
+1. Clone this repo or [Download ZIP](https://github.com/msolimann2cs/BootSnip/archive/refs/heads/main.zip)
 2. Go to `chrome://extensions` in your browser
 3. Enable **Developer Mode**
 4. Click **Load unpacked**
