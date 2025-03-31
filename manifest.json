@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Code & Quote Copier",
+    "version": "1.0",
+    "description": "Click <code> or quoted text to copy it with a visual confirmation.",
+    "permissions": ["clipboardWrite"],
+    "content_scripts": [
+      {
+        "matches": ["https://*.boot.dev/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
